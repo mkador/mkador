@@ -1,5 +1,5 @@
 # 👋 Assalamualaikum, I'm Md. Musa Kalimulla,
- ## Data Science & Machine Learning | MERN-Stack Developer 
+ ## Data Science & Machine Learning | MERN-Stack Dev.
 - 🚀 Passionate about AI, Data-Driven Solutions
 - 🚀 I'm currently enhancing my skills in Data Science and Machine Learning through online courses and personal projects.
 - 🚀 I'm excited to collaborate on projects related to data science, and AI. Open to contributing to open-source and learning from others.
