@@ -1,12 +1,10 @@
 # 👋 Assalamualaikum, I'm Md. Musa Kalimulla,
- ## Data Science & Machine Learning | MERN-Stack Dev.
+ ### Data Science, AI, Machine Learning, Deep Learning | MERN-Stack Dev.
 - 🚀 Passionate about AI, Data-Driven Solutions
 - 🚀 I'm currently enhancing my skills in Data Science and Machine Learning through online courses and personal projects.
 - 🚀 I'm excited to collaborate on projects related to data science, and AI. Open to contributing to open-source and learning from others.
 - 🚀 I want to collaborate on data science and machine learning projects, especially in deep learning, NLP, or AI applications.
 - 🚀 Web Development
-
-![Profile Views]([https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat](https://musakalimullaportfolio.netlify.app/))
 
 ## 🔧 Tech Stack
 
@@ -31,16 +29,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" width="98%" alt="Profile Summary">
-</p>
 
 ## 🏆 Top Projects
 🔹 [**AI-Powered Data Analysis**](https://github.com/yourusername/ai-data-repo) - Machine Learning and AI-driven data insights.
